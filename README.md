@@ -71,6 +71,6 @@
 
 ###
 
-![Snake animation](https://github.com/caio-cristian/caio-cristian/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Caio-Cristian/Caio-Cristian/blob/main/.github/workflows/snake.yml)
 
 ###
