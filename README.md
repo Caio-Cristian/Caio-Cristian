@@ -68,9 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Caio-Cristian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="220" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Cristian&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="220" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://github.com/Caio-Cristian/Caio-Cristian/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
