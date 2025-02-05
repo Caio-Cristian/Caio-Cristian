@@ -71,6 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Caio-Cristian/Caio-Cristian/output/snake.svg" alt="Snake animation" />
+![Snake animation)(https://github.com/caio-cristian/caio-cristian/blob/output/github-contribution-grid-snake.svg).
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=caio-cristian&repo=caio-cristian&theme=react)](https://github.com/caio-cristian/caio-cristian)
 
 ###
