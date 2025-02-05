@@ -71,6 +71,6 @@
 
 ###
 
-![Snake animation](https://github.com/Caio-Cristian/Caio-Cristian/blob/main/.github/workflows/snake.yml)
+<img src="https://github.com/Caio-Cristian/Caio-Cristian/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
