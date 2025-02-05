@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Caio-Cristian/Caio-Cristian/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/caio-cristian/caio-cristian/blob/output/github-contribution-grid-snake.svg)
 
 ###
