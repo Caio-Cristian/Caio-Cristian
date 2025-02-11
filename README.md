@@ -1,25 +1,25 @@
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/159868781?v=4"  />
+  <img height="200" src="https://avatars.githubusercontent.com/u/159868781?v=4" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-cristian/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caiocristianoliveiramarques@gmail.com&su=Assunto%20do%20Email&body=Olá,%20Caio!%20Gostaria%20de%20falar%20sobre..." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
+  <a href="mailto:caiocristianoliveiramarques@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/caiocristian7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Caio-Cristian.Caio-Cristian&right_color=darkgray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Caio-Cristian.Caio-Cristian&right_color=darkgray" />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">Sou Caio Cristian Oliveira Marques, de Cajazeiras, PB – Brasil.<br><br>🛠️ Aspirante a Desenvolvedor de Software | Atualmente em busca de uma vaga júnior ou estágio<br>📚 Apaixonado por aprender Java avançado, Spring Boot e frameworks modernos de front-end<br>⚡ Adoro explorar novas linguagens e frameworks, entender seus pontos fortes e descobrir como aplicá-los de forma eficiente em diferentes contextos.<br><br>💡 Sempre aberto a colaborar em projetos empolgantes e contribuir para iniciativas de código aberto!</p>
+<p align="center">👋 Olá! Sou Caio Cristian Oliveira Marques, de Cajazeiras, PB – Brasil.<br><br>🛠️ Desenvolvedor Full-Stack em formação | Buscando oportunidades como Desenvolvedor Júnior ou Estagiário<br>📚 Atualmente aprimorando minhas habilidades em Java avançado, Spring Boot e frameworks modernos de front-end<br>⚡ Apaixonado por tecnologia, adoro explorar novas linguagens e frameworks, entender seus pontos fortes e descobrir como aplicá-los de forma eficiente.<br><br>💡 Sempre aberto a colaborar em projetos empolgantes e contribuir para iniciativas de código aberto!</p>
 
 ###
 
