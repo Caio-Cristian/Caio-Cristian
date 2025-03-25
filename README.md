@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">👋 Olá! Sou Caio Cristian Oliveira Marques, de Cajazeiras, PB – Brasil.<br><br>🛠️ Desenvolvedor Full-Stack em formação | Buscando oportunidades como Desenvolvedor Júnior ou Estagiário<br>📚 Atualmente aprimorando minhas habilidades em Java avançado, Spring Boot e frameworks modernos de front-end<br>⚡ Apaixonado por tecnologia, adoro explorar novas linguagens e frameworks, entender seus pontos fortes e descobrir como aplicá-los de forma eficiente.<br><br>💡 Sempre aberto a colaborar em projetos empolgantes e contribuir para iniciativas de código aberto!</p>
+<p align="center">👋 Olá! Sou Caio Cristian Oliveira Marques, de Cajazeiras, PB – Brasil.<br><br>🛠️ Desenvolvedor Front-End | Buscando oportunidades como Desenvolvedor Júnior<br>📚 Atualmente aprimorando minhas habilidades em React.js, Vue.js, JavaScript, TypeScript e outras tecnológias Front-End<br>⚡ Apaixonado por tecnologia, adoro explorar novas linguagens e frameworks, entender seus pontos fortes e descobrir como aplicá-los de forma eficiente.<br><br>💡 Sempre aberto a colaborar em projetos empolgantes e contribuir para iniciativas de código aberto!</p>
 
 ###
 
@@ -50,8 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
